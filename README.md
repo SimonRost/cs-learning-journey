@@ -1,6 +1,6 @@
 # 🎓 CS Learning Journey
 
-Welcome to my personal hub for all things related to my computer science journey. This repo is a living document of my path into tech — from self-taught fundamentals to hands-on projects, and eventually through formal CS studies starting Fall 2025.
+Welcome to my personal hub for everything related to my computer science journey. This repo is a living document of my path into tech — from self-taught fundamentals to hands-on projects, and eventually to formal CS studies starting in the fall of 2025.
 
 ---
 
@@ -15,17 +15,17 @@ This repository acts as a central map of content (MOC) for all my learning and p
 ---
 ## 🚀 Learning Projects
 
-Projects with focus on practicing learned concepts. Usually these are projects I completed doing a course, then expanded and/or customized them.
+Most of these began as course assignments, but I only share projects that I’ve **significantly built on, expanded, or customized**.
 
-| Project | Description | Topics Covered | Repository |
-|--------|-------------|----------------|------------|
-| 📈 Stock Trading Alert | Sends email alerts when a stock moves significantly | APIs, requests, email automation, scheduling | [View Repo](https://github.com/SimonRost/Stock-Trading-Alert) |
-| 🛰️ ISS Overhead Notifier | Sends a notification when the ISS is above your location at night | APIs, datetime logic, conditional execution | [View Repo](https://github.com/SimonRost/ISS_alert) |
+| Project | Description | Topics Covered | Repository | created |
+|--------|-------------|----------------|------------|--------|
+| 📈 Stock Trading Alert | Sends email alerts when a stock moves significantly | APIs, requests, email automation, scheduling | [View Repo](https://github.com/SimonRost/Stock-Trading-Alert) | 05/2025
+| 🛰️ ISS Overhead Notifier | Sends a notification when the ISS is above your location at night | APIs, datetime logic, conditional execution | [View Repo](https://github.com/SimonRost/ISS_alert) | 04/2025
 ---
 
-## 🚀 Real Projects
+## 🚀 Real-World Projects
 
-These are the first real things I’ve built with Python — small but meaningful steps that solve actual problems and keep me excited to learn more.
+These are the first projects I’ve built with Python to solve real problems — at least for me. They’re small but meaningful steps that address actual needs and keep me excited to keep learning.
 
 | Project | Description | Topics Covered | Repository |
 |--------|-------------|----------------|------------|
