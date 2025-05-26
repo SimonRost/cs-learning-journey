@@ -17,42 +17,55 @@ This repository acts as a central map of content (MOC) for all my learning and p
 
 Most of these began as course assignments, but I only share projects that I’ve **significantly built on, expanded, or customized**.
 
-| Project | Description | Topics Covered | Repository | created |
-|--------|-------------|----------------|------------|--------|
-| 📈 Stock Trading Alert | Sends email alerts when a stock moves significantly | APIs, requests, email automation, scheduling | [View Repo](https://github.com/SimonRost/Stock-Trading-Alert) | 05/2025
-| 🛰️ ISS Overhead Notifier | Sends a notification when the ISS is above your location at night | APIs, datetime logic, conditional execution | [View Repo](https://github.com/SimonRost/ISS_alert) | 04/2025
+| Project | Description | Topics Covered | Repository | Created |   |
+| ---------------- | --------------------------- | ------------------------- | ------------------ | ------- | - |
+| 📈 Stock Trading Alert      | Sends email alerts when a stock moves significantly               | Python, APIs, Telegram Bot integration | [View Repo](https://github.com/SimonRost/practice-api-stock-trading-alert)             | 05/2025 |   |
+| 🛰️ ISS Alert via Telegram  | Sends a Telegram alert when the ISS is approximately overhead     | Python, APIs, Telegram Bot integration       | [View Repo](https://github.com/SimonRost/practice-api-iss-alert)          | 04/2025 |   |
+| 🔐 Password Generator (Tkinter) | A simple GUI-based password generator using Tkinter, allowing users to create, store, and retrieve passwords | Python, Tkinter, GUI development             | [View Repo](https://github.com/SimonRost/practice-tkinter-password-gen)   | 03/2025 |                                         |
+| ⏱️ Pomodoro Timer (Tkinter) | A simple Pomodoro timer built with Tkinter for GUI practice       | Python, Tkinter, GUI development             | [View Repo](https://github.com/SimonRost/practice-tkinter-pomodoro-timer) | 02/2025 |   |
+
+
 ---
 
 ## 🚀 Real-World Projects
 
 These are the first projects I’ve built with Python to solve real problems — at least for me. They’re small but meaningful steps that address actual needs and keep me excited to keep learning.
 
-| Project | Description | Topics Covered | Repository |
-|--------|-------------|----------------|------------|
+| Project                   | Description                                                                    | Topics Covered                        | Repository                         | Created |
+| ------------------------- | --------------------------- | --------------------- | ----------------------- | ------- |
+| 📝 Quick Note to Obsidian | A GUI tool to quickly write and save markdown notes to a local Obsidian folder | Personal productivity tool for fast note-taking with file automation | [View Repo](https://github.com/SimonRost/quicknote-to-obsidian) | 05/2025 |
+
 
 
 ---
 
 ## 🧠 Learning Focus
+Over the past months, I’ve been squeezing every free moment to build foundational skills:
 ### Completed
+- ✅ HTML & CSS basics
 - ✅ Python fundamentals (syntax, loops, functions, etc.)
+- ✅ Git basics
 
 ### Currently focusing on:
-- 🔄 Getting my website running (Astro)
+- 🔄 Continue my Python-Course
+- 🔄 Getting my website running
 - 🔄 Git & GitHub workflows
-- 🔄 Automating tasks with scripts
-- 🔄 Problem-solving using real-world APIs
+- 🔄 Building as much as I can
+- 🔄 Prepare for my studies starting soon
 
 ### Upcoming Topics
+- ⏳ Starting my university degree
 - ⏳ Data structures and basic algorithm design
+- ⏳ Learning Django and Flask
+- ⏳ Learning Java-Script (and after the basics the Astro-Framework)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python, HTML, CSS, Astro
-**Tools:** Git, GitHub, VS Code, PyCharm
-**Libraries:** requests, smtplib, datetime, time, tkinter, turtle
+**Languages:** Python, HTML, CSS
+**Tools:** Git, GitHub, VS Code, PyCharm, Obsidian (Notetaking)
+**Python-Libraries:** requests, smtplib, datetime, time, tkinter, turtle
 
 ---
 
@@ -68,14 +81,10 @@ These are the first projects I’ve built with Python to solve real problems —
   - *grokking algorithms*
 
 - **Podcasts:**  
-  - freeCodeCamp podcast (during dishes, walks, or train rides)
+  - "freeCodeCamp PODCAST" (during dishes, walks, or train rides)
+  - "the changelog"
+  - "Real Python"
 
----
-
-## ✍️ My Philosophy
-
-> “Progress over perfection.”  
-> I learn by doing — building things, breaking things, writing about the process, and sharing the journey. My goal is not to be flawless but to be consistent and curious.
 
 ---
 
@@ -86,9 +95,9 @@ cs-learning-journey/
 ├── README.md          ← You are here
 ├── resources/
 │   ├── useful-links.md
-│   ├── book-notes/
+│   ├── books/
 │   └── cheat-sheets/
 └── project-templates/
-    ├── python-project-template/
-    └── web-project-template/
+    ├── python-project-templates/
+    └── web-project-templates/
 ```
