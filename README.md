@@ -19,6 +19,7 @@ Most of these began as course assignments, but I only share projects that I’ve
 
 | Project | Description | Topics Covered | Repository | Created |   |
 | ---------------- | --------------------------- | ------------------------- | ------------------ | ------- | - |
+| 🏋️ Workout Tracking API        | Logs workouts in natural language using a fitness API and stores them in Google Sheets                                      | Python, APIs, HTTP requests            | [View Repo](https://github.com/SimonRost/practice-api-workout-tracking)    | 06/2025 |   |
 | 📈 Stock Trading Alert      | Sends email alerts when a stock moves significantly               | Python, APIs, Telegram Bot integration | [View Repo](https://github.com/SimonRost/practice-api-stock-trading-alert)             | 05/2025 |   |
 | 🛰️ ISS Alert via Telegram  | Sends a Telegram alert when the ISS is approximately overhead     | Python, APIs, Telegram Bot integration       | [View Repo](https://github.com/SimonRost/practice-api-iss-alert)          | 04/2025 |   |
 | 🔐 Password Generator (Tkinter) | A simple GUI-based password generator using Tkinter, allowing users to create, store, and retrieve passwords | Python, Tkinter, GUI development             | [View Repo](https://github.com/SimonRost/practice-tkinter-password-gen)   | 03/2025 |                                         |
