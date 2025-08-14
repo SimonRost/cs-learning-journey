@@ -1,10 +1,10 @@
-# 🎓 CS Learning Journey
+# CS Learning Journey
 
 Welcome to my personal hub for everything related to my computer science journey. This repo is a living document of my path into tech — from self-taught fundamentals to hands-on projects, and eventually to formal CS studies starting in the fall of 2025.
 
 ---
 
-## 📚 About This Repository
+## About This Repository
 
 This repository acts as a central map of content (MOC) for all my learning and practice projects. It documents what I’ve built so far, what I’m currently learning, and where I’m heading.
 
@@ -13,7 +13,7 @@ This repository acts as a central map of content (MOC) for all my learning and p
 **Focus:** Practical skills, project-based learning, and consistent progress
 
 ---
-## 🚀 Learning Projects
+## Learning Projects
 
 Most of these began as course assignments, but I only share projects that I’ve **significantly built on, expanded, or customized**.
 
@@ -28,7 +28,7 @@ Most of these began as course assignments, but I only share projects that I’ve
 
 ---
 
-## 🚀 Real-World Projects
+## Real-World Projects
 
 These are the first projects I’ve built with Python to solve real problems — at least for me. They’re small but meaningful steps that address actual needs and keep me excited to keep learning.
 
@@ -40,37 +40,38 @@ These are the first projects I’ve built with Python to solve real problems —
 
 ---
 
-## 🧠 Learning Focus
+## Learning Focus
 Over the past months, I’ve been squeezing every free moment to build foundational skills:
 ### Completed
 - ✅ HTML & CSS basics
 - ✅ Python fundamentals (syntax, loops, functions, etc.)
 - ✅ Git basics
+- ✅ Getting my website running
 
 ### Currently focusing on:
 - 🔄 Continue my Python-Course
-- 🔄 Getting my website running
 - 🔄 Git & GitHub workflows
-- 🔄 Building as much as I can
 - 🔄 Prepare for my studies starting soon
+  - Java Fundamentals
+  - Math preparation
+  - Preparing Tools & Workflows / getting used to my new MacBook
 
 ### Upcoming Topics
-- ⏳ Starting my university degree
+- ⏳ Starting my cs-degree
 - ⏳ Data structures and basic algorithm design
 - ⏳ Learning Django and Flask
-- ⏳ Learning Java-Script (and after the basics the Astro-Framework)
+- ⏳ Learning Java-Script
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-**Languages:** Python, HTML, CSS
-**Tools:** Git, GitHub, VS Code, PyCharm, Obsidian (Notetaking)
-**Python-Libraries:** requests, smtplib, datetime, time, tkinter, turtle
+**Languages:** Python (medium), Java (basics), HTML, CSS<br>
+**Tools:** Git, GitHub, VS Code, PyCharm, Obsidian (Notetaking)<br>
 
 ---
 
-## 📝 Resources That Power My Learning
+## Resources That Power My Learning
 
 - **Courses:**  
   - Angela Yu’s Python Bootcamp (Udemy)  
@@ -86,19 +87,3 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
   - "the changelog"
   - "Real Python"
 
-
----
-
-## 📎 Repo Structure (Planned)
-
-```text
-cs-learning-journey/
-├── README.md          ← You are here
-├── resources/
-│   ├── useful-links.md
-│   ├── books/
-│   └── cheat-sheets/
-└── project-templates/
-    ├── python-project-templates/
-    └── web-project-templates/
-```
