@@ -8,7 +8,7 @@ Welcome to my personal hub for everything related to my computer science journey
 
 This repository acts as a central map of content (MOC) for all my learning and practice projects. It documents what I’ve built so far, what I’m currently learning, and where I’m heading.
 
-**Status:** Pre-CS student preparing for a part-time degree  
+**Status:** First-year CS student (part-time) 
 **Main Language:** Python (for now — expanding as I go)  
 **Focus:** Practical skills, project-based learning, and consistent progress
 
@@ -47,20 +47,15 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
 - ✅ Python fundamentals (syntax, loops, functions, etc.)
 - ✅ Git basics
 - ✅ Getting my website running
+- ✅ Prepare for the start of my studies (Python, Java, Tools)
 
 ### Currently focusing on:
-- 🔄 Continue my Python-Course
+- 🔄 First Semester of my CS Studies (OOP with Java, Python, Math, Computer Networks)
 - 🔄 Git & GitHub workflows
-- 🔄 Prepare for my studies starting soon
-  - Java Fundamentals
-  - Math preparation
-  - Preparing Tools & Workflows / getting used to my new MacBook
+- 🔄 Trying to get side-projects in
 
 ### Upcoming Topics
-- ⏳ Starting my cs-degree
-- ⏳ Data structures and basic algorithm design
-- ⏳ Learning Django and Flask
-- ⏳ Learning Java-Script
+...
 
 ---
 
@@ -80,10 +75,10 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
 - **Books:**  
   - *Automate the Boring Stuff with Python*  
   - *Fit fürs Studium Informatik* (German)
-  - *grokking algorithms*
+  - *Grokking Algorithms*
 
 - **Podcasts:**  
   - "freeCodeCamp PODCAST" (during dishes, walks, or train rides)
   - "the changelog"
-  - "Real Python"
+  - "Talk Python to me"
 
