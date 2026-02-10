@@ -34,6 +34,7 @@ These are the first projects I’ve built with Python to solve real problems —
 
 | Project                   | Description                                                                    | Topics Covered                        | Repository                         | Created |
 | ------------------------- | --------------------------- | --------------------- | ----------------------- | ------- |
+| 📰 NewsDiet | Replaces doomscrolling with a focused daily news diet, filtering and delivering only the most relevant headlines to Telegram | Python, Automation, Codex CLI-Learning, Telegram Bot integration,  | [View Repo](https://github.com/SimonRost/NewsDiet) | 02/2026 |
 | 📝 Quick Note to Obsidian | A GUI tool to quickly write and save markdown notes to a local Obsidian folder | Personal productivity tool for fast note-taking with file automation | [View Repo](https://github.com/SimonRost/quicknote-to-obsidian) | 05/2025 |
 
 
@@ -48,10 +49,12 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
 - ✅ Git basics
 - ✅ Getting my website running
 - ✅ Prepare for the start of my studies (Python, Java, Tools)
+- ✅ First Semester of my CS Studies (OOP with Java, Python, Math, Computer Networks)
+- ✅ Git & GitHub workflows (basics)
 
 ### Currently focusing on:
-- 🔄 First Semester of my CS Studies (OOP with Java, Python, Math, Computer Networks)
-- 🔄 Git & GitHub workflows
+- 🔄 Second Semester of my CS Studies (Cyber Security, CS-Basics, Math)
+- 🔄 Linux & Bash (as kind of a side project)
 - 🔄 Trying to get side-projects in
 
 ### Upcoming Topics
@@ -62,7 +65,7 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
 ## Technologies & Tools
 
 **Languages:** Python (medium), Java (basics), HTML, CSS<br>
-**Tools:** Git, GitHub, VS Code, PyCharm, Obsidian (Notetaking)<br>
+**Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ IDEA, Obsidian (Notetaking)<br>
 
 ---
 
@@ -76,9 +79,11 @@ Over the past months, I’ve been squeezing every free moment to build foundatio
   - *Automate the Boring Stuff with Python*  
   - *Fit fürs Studium Informatik* (German)
   - *Grokking Algorithms*
+  - *Java: A Beginner's Guide* (10th edition)
 
 - **Podcasts:**  
   - "freeCodeCamp PODCAST" (during dishes, walks, or train rides)
+  - "Passwort" - Heise Security-Podcast
   - "the changelog"
   - "Talk Python to me"
 
